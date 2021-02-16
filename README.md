@@ -1,8 +1,8 @@
-# It's Hasan <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif">
+# My name is Hasan Parasteh <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif">
 
-## Profile:
+## Profile
 
-I'm just a programmer who likes to talk about technologies and stuff. I realy like minimalism in my life and suckless codes in programming career.<br>
+I'm just a programmer who likes to talk about technologies and stuff. I like minimalism in my life and suckless codes in my programming career.
 I was a rolling stone and tested so many things but I wanna stick with Nest.js & Django framework for now!
 
 ### Connect with me:
