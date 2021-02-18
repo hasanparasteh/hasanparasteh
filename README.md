@@ -13,7 +13,7 @@ I was a rolling stone and tested so many things but I wanna stick with Nest.js &
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HasanParasteh/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hasanparasteh/)
 
-### Overview:
+### Overview
 |My overall statistics|Top most languages |
 |------------------|-------------|
 |![Hasan Parasteh github stats](https://github-readme-stats.vercel.app/api?username=hasanparasteh&show_icons=true&hide_border=true&count_private=true)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanparasteh&langs_count=3&count_private=true)|
