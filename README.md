@@ -16,4 +16,4 @@ I was a rolling stone and tested so many things but I wanna stick with Nest.js &
 ### Overview
 |My overall statistics|Top most languages |
 |------------------|-------------|
-|![Hasan Parasteh github stats](https://github-readme-stats.vercel.app/api?username=hasanparasteh&show_icons=true&hide_border=true&count_private=true)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanparasteh&langs_count=3&count_private=true)|
+|[![HasanParasteh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanparasteh)](https://github.com/anuraghazra/github-readme-stats)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanparasteh&count_private=true)|
